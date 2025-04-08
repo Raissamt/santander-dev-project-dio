@@ -35,8 +35,8 @@ classDiagram
   class Account {
     +String number
     +String agency
-    +float balance
-    +float limit
+    +number balance
+    +number limit
   }
 
   class Feature {
