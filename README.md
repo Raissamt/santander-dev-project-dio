@@ -46,7 +46,7 @@ classDiagram
 
   class Card {
     +String number
-    +float limit
+    +number limit
   }
 
   class News {
